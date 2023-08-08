@@ -3333,7 +3333,7 @@
      height="20"
      x="384.99997"
      y="831"
-     style="opacity:1;fill:#fafafa;fill-opacity:1" />
+     style="opacity:1;fill:#fafafa;fill-opacity:0.25" />
   <rect
      id="menubar-normal-left"
      width="20"
@@ -3341,7 +3341,7 @@
      x="831"
      y="-384.99997"
      transform="rotate(90)"
-     style="opacity:1;fill:#fafafa;fill-opacity:1" />
+     style="opacity:1;fill:#fafafa;fill-opacity:0.25" />
   <rect
      id="menubar-normal-topleft"
      width="5"
@@ -3349,14 +3349,14 @@
      x="826"
      y="-384.99997"
      transform="rotate(90)"
-     style="opacity:1;fill:#fafafa;fill-opacity:1" />
+     style="opacity:1;fill:#fafafa;fill-opacity:0.25" />
   <rect
      id="menubar-normal-top"
      width="20"
      height="5"
      x="384.99997"
      y="826"
-     style="opacity:1;fill:#fafafa;fill-opacity:1" />
+     style="opacity:1;fill:#fafafa;fill-opacity:0.25" />
   <rect
      id="menubar-normal-right"
      width="20"
@@ -3364,7 +3364,7 @@
      x="831"
      y="-409.99997"
      transform="rotate(90)"
-     style="opacity:1;fill:#fafafa;fill-opacity:1" />
+     style="opacity:1;fill:#fafafa;fill-opacity:0.25" />
   <rect
      id="menubar-normal-topright"
      width="5"
@@ -3372,7 +3372,7 @@
      x="826"
      y="-409.99997"
      transform="rotate(90)"
-     style="opacity:1;fill:#fafafa;fill-opacity:1" />
+     style="opacity:1;fill:#fafafa;fill-opacity:0.25" />
   <g
      id="menubar-normal-bottomleft"
      style="opacity:1"

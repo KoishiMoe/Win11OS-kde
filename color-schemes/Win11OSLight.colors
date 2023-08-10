@@ -40,7 +40,7 @@ DecorationHover=79,83,91
 
 [Colors:Selection]
 BackgroundAlternate=82,148,226
-BackgroundNormal=230,230,230
+BackgroundNormal=136,136,136
 DecorationFocus=88,177,244
 DecorationHover=111,181,255
 ForegroundActive=255,128,224
